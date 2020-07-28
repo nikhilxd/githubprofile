@@ -1,4 +1,1 @@
-# newprofiledesign
 # newone
-# newone
-# githubprofile
